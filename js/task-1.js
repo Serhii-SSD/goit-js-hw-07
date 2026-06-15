@@ -8,6 +8,3 @@ categories.forEach(item => {
   console.log(`Elements: ${elementsCount}`);
 });
 
-////const titles = item.querySelectorAll('h2');
-////titles.forEach(titles => { console.log("Categories: " + titles.textContent.trim()) });
-////const UlLiElements = document.querySelectorAll('ul.length');
